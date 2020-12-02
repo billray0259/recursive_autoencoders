@@ -23,9 +23,11 @@ if __name__ == "__main__":
             if file_name.split(".")[-1] == "jpg":
                 img_path = os.path.join(path, file_name)
                 img = image.imread(img_path)
+                print(img.shape)
+                exit()
                 img = preprocess_img(img)
                 x.append(img)
 
     x = np.array(x)
-    np.save("x.npy", x)
+    # np.save("x.npy", x)
 
