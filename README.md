@@ -1,4 +1,4 @@
-# Read the paper inside 682_Final_report.pdf instead of this README
+# Read the paper inside 682_Final_report.pdf
 
 # Abstract
 Our Project improves upon the quality and clarity of images created by autoencoders by training them in a novel
@@ -10,7 +10,11 @@ autoencoder trained end to end with the same architecture
 but failed to produce new face images when used on a
 variational autoencoder.
 
-# recursive_autoencoders
+<p align="center">
+  <img src="https://github.com/billray0259/recursive_autoencoders/blob/main/figures/7_384.png?raw=true" alt="Stacked vs Recursive autoencoders"/>
+</p>
+
+# This is just projects notes we wrote to each other that I'm leaving here for some reason
 
 
 Need to do:
