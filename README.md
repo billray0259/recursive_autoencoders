@@ -1,13 +1,9 @@
 # Read the paper inside 682_Final_report.pdf instead of this README
 
 # Abstract
-Our Project improves upon the quality and clarity of im-
-ages created by autoencoders by training them in a novel
+Our Project improves upon the quality and clarity of images created by autoencoders by training them in a novel
 recursive manner. The model is built out of smaller
-stacked models that share layers. The clarity of these im-
-ages was also slightly improved using batch normaliza-
-tion, where batch normalization layers were shared be-
-tween corresponding encoder and decoder layers. These
+stacked models that share layers. The clarity of these images was also slightly improved using batch normalization, where batch normalization layers were shared between corresponding encoder and decoder layers. These
 training methods produced models that recreated clearer
 images with a slightly lower reconstruction error than an
 autoencoder trained end to end with the same architecture
