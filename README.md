@@ -1,4 +1,7 @@
+# This README is the notes Daniel and I wrote to each other while developing this project.
+
 # recursive_autoencoders
+
 
 Need to do:
 * Make recursive autoencoder variational
